@@ -73,5 +73,4 @@ ChatBot: Goodbye! Have a great day.
 
 ## 👨‍💻 Author
 
-**Srinivas Rao Uttarkar**  
-Developer @ Zoho
+**AKSHITHA JHADEY**  
